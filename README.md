@@ -14,7 +14,7 @@
 - 🌱 Learning Modern Backend & System Design
 - 🤝 Open for freelance & collaboration
 - 💬 Ask me about Web Development & UI Design
-- ⚡ I build from zero to production
+- ⚡ Building projects from scratch & learning along the way
 
 ---
 
