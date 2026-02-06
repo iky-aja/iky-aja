@@ -21,6 +21,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iky-aja&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🐍 Contribution Snake
+![snake animation](https://raw.githubusercontent.com/iky-aja/iky-aja/output/github-contribution-grid-snake-dark.svg)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=iky-aja&icon=6&color=0)](https://visitcount.itsvg.in)
 
