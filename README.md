@@ -18,6 +18,11 @@
 
 ---
 
+## ⚡ Developer Mindset
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://instagram.com/rzkihrdans"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
