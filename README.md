@@ -4,7 +4,7 @@
 <h3 align="center">🌱 Informatics Student | Future Fullstack Engineer | Building & Learning in Public</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Fullstack+Web+Developer;Modern+Web+Architect;UI%2FUX+Builder;Real+Client+Project+Maker;Always+Learning+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=520&lines=Informatics+Student+%F0%9F%8C%B1;Aspiring+Fullstack+Developer;Learning+by+Building+Projects;Future+Web+Engineer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%9A%80" />
 </p>
 
 ---
