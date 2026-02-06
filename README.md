@@ -1,7 +1,7 @@
 <!-- ================= GOD LEVEL HEADER ================= -->
 
-<h1 align="center">👨‍💻 Rizki Herdiansyah</h1>
-<h3 align="center">🚀 Fullstack Web Developer | Informatics Student | UI/UX Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Rizki Herdiansyah</h1>
+<h3 align="center">🌱 Informatics Student | Future Fullstack Engineer | Building & Learning in Public</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Fullstack+Web+Developer;Modern+Web+Architect;UI%2FUX+Builder;Real+Client+Project+Maker;Always+Learning+🚀"/>
